@@ -1,0 +1,12 @@
+.jumbotron {
+    height: 600px;
+}
+
+.footerarea {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #262626;
+    height: 100px;
+    color: aliceblue;
+}
